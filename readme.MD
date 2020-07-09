@@ -1,11 +1,1 @@
-
-
-    ____  _      __  __ 
-   |  _ \| |    |  \/  |
-   | |_) | |    | \  / |
-   |  _ <| |    | |\/| |
-   | |_) | |____| |  | |
-   |____/|______|_|  |_|
-                      
-                      
-
+<img src="https://media.giphy.com/media/kZnioLZNgD1zy7cLyj/giphy.gif" />
